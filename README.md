@@ -3,10 +3,7 @@
 ---------------------------------------------
 |Name|
 |----|
-|Prince Kumar|
-|Janit Lodha|
-|Souvik Patra|
-|Animesh Choudhury|
+|B. Venkata Sai|
 ---------------------------------------------
 ### FEATURES:
 
